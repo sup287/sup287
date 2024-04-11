@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sup287
 - 👀 I’m a healthcare professional that is interested in data analytics
 - 🌱 I’m currently learning python
-- 📫 How to reach me:  [
-](https://www.linkedin.com/in/supbrar/)
+- 📫 How to reach me:  [(https://www.linkedin.com/in/supbrar/)
+]
 - ⚡ Fun fact: I am in my sourdough era! 
 
 <!---
